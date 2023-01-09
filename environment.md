@@ -1,6 +1,6 @@
 ## Project Environment
 
-* Libraries imported using the miniconda forge distribution
+All libraries imported using the miniconda forge distribution
 
 | Library Name | Alias | Version |
 | ------------ | ----- | ------- |
