@@ -1,6 +1,6 @@
 # Havoc on the Hill
 ### A Visualisation of Canadian Legislation from 1994 - 2022
-### By Riley Wheadon
+By Riley Wheadon
 
 --- 
 
