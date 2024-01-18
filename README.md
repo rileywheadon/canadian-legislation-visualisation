@@ -20,7 +20,7 @@ The 'notebooks/' folder contains four .ipynb files which contain various stages 
 
 # Charts
 
-<img title="" alt="" src="/charts/images/fig-1-1.png">
+<img width="500px" title="" alt="" src="/charts/images/fig-1-1.png">
 <img title="" alt="" src="/charts/images/fig-1-2.png">
 
 <img title="" alt="" src="/charts/images/fig-2.png">
