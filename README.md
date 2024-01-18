@@ -2,7 +2,6 @@
 ### A Visualisation of Canadian Legislation from 1994 - 2022
 By Riley Wheadon
 
---- 
 
 ## Project Overview
 
@@ -18,7 +17,7 @@ The 'notebooks/' folder contains four .ipynb files which contain various stages 
 3. cleaning.ipynb - Aggregates a number of raw data frames together to produce bills.csv and parliaments.csv, which will be used to generate visualisations.
 4. visualisation.ipynb - Generates 8 charts describing the data in bills.csv and parliaments.csv
 
-# Findings
+## Findings
 
 Between 2007 and 2010, Stephen Harper's minority conservative government had the most efficient parliament, as measured by the number of bills read. Justin Trudeau's government has had the lowest readings per day.
 
